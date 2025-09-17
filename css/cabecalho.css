@@ -42,3 +42,13 @@
   font-family: var(--fonte-texto);
   color: var(--cor-links);
 }
+
+.pesquisa-icon {
+  position: absolute;
+  right: 17.5px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  pointer-events: none;
+}
