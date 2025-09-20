@@ -1,0 +1,10 @@
+.banner {
+  background-color: var(--cor-links);
+  padding: 80px 12.5%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-image: url(../assets/banner-background.png);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  align-items: center;
+}
