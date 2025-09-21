@@ -1,0 +1,6 @@
+.promocoes__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 26.67px;
+  list-style-type: none;
+}
