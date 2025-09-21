@@ -60,3 +60,16 @@
   font-family: var(--fonte-texto);
   line-height: 16px;
 }
+
+.rodape__coluna_list_item a {
+  color: var(--cor-texto);
+  text-decoration: none;
+}
+
+.rodape__coluna_list_item {
+  margin-bottom: 8px;
+}
+
+.rodape__coluna_list_item:last-child {
+  margin-bottom: 0;
+}
