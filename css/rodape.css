@@ -40,3 +40,16 @@
   line-height: 24px;
   margin-bottom: 16px;
 }
+
+.rodape__coluna_logo img {
+  width: 79.61px;
+  height: 48px;
+}
+
+.rodape__coluna_logo_texto {
+  font-family: var(--fonte-texto);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--cor-destaque-secundario);
+  line-height: 19.2px;
+}
