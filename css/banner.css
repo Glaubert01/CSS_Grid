@@ -7,6 +7,7 @@
   background-position: bottom;
   background-repeat: no-repeat;
   align-items: center;
+  gap: 56px;
 }
 
 .banner__container-titulo {
@@ -33,6 +34,10 @@
   background-color: var(--cor-fundo-botao);
   border-radius: 32px;
   border: none;
+}
+
+.banner__imagem {
+  width: 100%;
 }
 
 @media screen and (max-width: 1280px) {
