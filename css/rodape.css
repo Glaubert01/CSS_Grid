@@ -1,0 +1,4 @@
+.rodape__linha {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
