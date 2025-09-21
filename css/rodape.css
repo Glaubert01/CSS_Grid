@@ -1,4 +1,13 @@
 .rodape__linha {
   display: grid;
   grid-template-columns: repeat(4, auto);
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
+
+.rodape__linha:last-child {
+  border-top: 1.5px solid var(--cor-destaque-secundario);
+  padding-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
 }
